@@ -22,11 +22,11 @@ group :development, :test do
   gem "factory_girl_rails"
   gem "faker"
   gem "launchy"
+  gem "rails-erd"
 end
 
 group :development, :test do
   gem "better_errors"
-  gem "rails-erd"
   gem "rails_best_practices"
 end
 
